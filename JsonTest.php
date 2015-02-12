@@ -13,6 +13,7 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Från html!</h1>
+        <div id="div1"></div>
         
     </body>
 </html>

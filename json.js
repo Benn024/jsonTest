@@ -1,14 +1,17 @@
-$(document).ready(function(){
+$(document).ready(function() {
     console.log("JS fungerar");
     
-//    $('<ul/>', {'class': 'lista'}).html('<li>Min Lista:<li/>').appendTo('.lista');
-    
-//    $.get('newjson.json', function(newjson){
-//        console.log(newjson);
-//    });
-var urlen = "newjson.json";
-    $.getJSON(urlen, function(newjson){
-       console.log(newjson); 
+    var urlen = "newjson.json";
+    $.getJSON(urlen, function(data) {
+        
+        $('<ul/>', {'class': 'lista'}).text('Min Lista:').appendTo('#div1');
+            $.each(data.name, function(key, val){
+                $('<li>' + key + '').text(val).appendTo('#div1');
+            });
+            
     });
+    
+    
+
 });
 

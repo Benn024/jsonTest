@@ -15,5 +15,17 @@ and open the template in the editor.
         <h1>Från html!</h1>
         <div id="div1"></div>
         
+        <select style="margin-top: 25px" name="grupp" class="grupp">
+            <option value="0">Djur</option>
+            <option value="1">Hund</option>
+            <option value="2">Katt</option>
+            <option value="3">Fåglar</option>
+            <option value="4">Dinosaurier</option>
+       
+        </select>
+        <select name="undergrupp" class="undergrupp">
+            
+        </select>
+        
     </body>
 </html>

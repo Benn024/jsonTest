@@ -1,9 +1,10 @@
 {
-    "name": [
-        "Ricciardo",
-        "Räikkönen",
-        "Hamilton",
-        "Alonso",
-        "Rosberg"
-    ]
+  "hund": [
+    "scgäfer",
+    "tax"
+  ],
+  "katt": [
+    "siames",
+    "bondkatt"
+  ]
 }

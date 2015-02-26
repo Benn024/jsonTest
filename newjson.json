@@ -1,10 +1,6 @@
 {
-  "hund": [
-    "scgäfer",
-    "tax"
-  ],
-  "katt": [
-    "siames",
-    "bondkatt"
+  "djur": [
+          ["schäfer","tax"],
+          ["Bondkatt", "annan katt"]
   ]
 }

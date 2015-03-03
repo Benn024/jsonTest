@@ -1,9 +1,6 @@
 {
-    "name": [
-        "Ricciardo",
-        "Räikkönen",
-        "Hamilton",
-        "Alonso",
-        "Rosberg"
-    ]
+  "djur": [
+          ["schäfer","tax"],
+          ["Bondkatt", "annan katt"]
+  ]
 }

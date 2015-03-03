@@ -3,15 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-<<<<<<< HEAD
-            <file>file:/D:/xampp/htdocs/jsonTest/newjson.json</file>
             <file>file:/D:/xampp/htdocs/jsonTest/JsonTest.php</file>
-=======
-            <file>file:/D:/xampp/htdocs/jsonTest/hamta.php</file>
-            <file>file:/D:/xampp/htdocs/jsonTest/jsonnosj.html</file>
-            <file>file:/D:/xampp/htdocs/jsonTest/jsjson.js</file>
->>>>>>> origin/master
             <file>file:/D:/xampp/htdocs/jsonTest/json.js</file>
+            <file>file:/D:/xampp/htdocs/jsonTest/newjson.json</file>
         </group>
     </open-files>
 </project-private>
